@@ -16,7 +16,7 @@ msg/_*.py
 *.cfgc
 /cfg/cpp/
 /cfg/*.py
-
+Regresion 1 coding pre intermediate
 # Ignore generated docs
 *.dox
 *.wikidoc
